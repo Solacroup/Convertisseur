@@ -1,6 +1,6 @@
 html{
 	font-family: 'Dosis', sans-serif;
-	background-image: url(/bgi.jpg);
+	background-image: url(bgi.jpg);
 	color: #fff;
 	font-size: 1.5rem;
 }
@@ -11,7 +11,7 @@ h1{
 	margin-bottom: 2rem;
 }
 .form{
-	background-image: url(/divi.jpg) ;
+	background-image: url(divi.jpg) ;
 	width: 30%;
 	height: 20rem;
 	margin:auto;
